@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>AgentForge Blog</title>
+<link>https://agentforge.net/blog/index.html</link>
+<description></description>
+<language>en-US</language>
+<copyright>Copyright 2025</copyright>
+<lastBuildDate>Tue, 25 Mar 2025 12:40:40 -0500</lastBuildDate>
+<pubDate>Tue, 25 Mar 2025 12:40:40 -0500</pubDate>
+<generator>http://thingamablog.sf.net</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+<item>
+<title>Introducing AgentForge</title>
+<description>
+&lt;p&gt; AgentForge is an open-source framework designed to simplify the
+process of developing intelligent agents. Whether you're working on
+autonomous systems,...&lt;/p&gt;
+</description>
+<link>https://agentforge.net/blog/archives/03-01-2025_03-31-2025.html#0</link>
+<guid>https://agentforge.net/blog/archives/03-01-2025_03-31-2025.html#0</guid>
+
+<category></category>
+
+<pubDate>Tue, 25 Mar 2025 12:38:42 -0500</pubDate>
+</item>
+
+</channel>
+</rss>
